@@ -1,6 +1,6 @@
 > * 原文地址：[A Visual Guide to Git Internals — Objects, Branches, and How to Create a Repo From Scratch Git 内部构建可视指南——对象、分支以及如何从头开始创建仓库](https://www.freecodecamp.org/news/git-internals-objects-branches-create-repo/)
 > * 原文作者：Omer Rosenbaum
-> * 译者：
+> * 译者：zhannicholas
 > * 校对者：
 
 ![A Visual Guide to Git Internals — Objects, Branches, and How to Create a Repo From Scratch](https://images.unsplash.com/photo-1501084291732-13b1ba8f0ebc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDI5fHx8ZW58MHx8fA&ixlib=rb-1.2.1&q=80&w=2000)
